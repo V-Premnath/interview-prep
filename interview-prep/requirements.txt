@@ -1,0 +1,12 @@
+google-genai
+opencv-python
+pyaudio
+pillow
+mss
+dotenv
+
+
+openai-whisper
+torch
+pyaudio
+webrtcvad-wheels 

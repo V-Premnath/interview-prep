@@ -1,0 +1,15 @@
+{
+  "name": "interviewprep",
+  "version": "1.0.0",
+  "description": "frontend",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "lucide-react": "^0.542.0"
+  }
+}
